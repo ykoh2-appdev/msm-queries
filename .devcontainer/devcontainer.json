@@ -3,7 +3,7 @@
 {
 	"name": "Container",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "patrickmckernin/msmqueries2022spring",
+	"image": "jelaniwoods/appdev2022-msm-queries",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
